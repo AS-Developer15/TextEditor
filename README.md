@@ -15,5 +15,5 @@ written in Python's own library Tkinter for bulilding GUI's easily.
 
 > A support page included in Help Menu
 
-🙏 Feel free to contribute to this project and customize as per your own requirement 🙏
+🙏 Feel free to contribute to this project and customize as per your own requirement 🙏 <br>
 🙏 Thank You for Checking It Out 🙏
